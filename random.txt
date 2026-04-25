@@ -1,0 +1,27 @@
+Let’s create our first online repository! We pretend to be a researcher writing some code on their own computer who now wants to collaborate with others and use GitHub for it. This is a beginner scenario, avoiding separate tools and use of command line.
+Create a plain text file on your computer, using a text editor of your choice.
+Fill it with some (random) text.
+Save the file (somewhere) on your computer, call it random.txt.
+Now we open github.com and log in.
+To deposit our text file, we first need to create a repository.
+Click the plus button top right of the GitHub page > New repository.
+In the form:
+Set your own username as the owner
+Choose a repository name, needs to be unique for your namespace
+Add a short description of what this repository is for
+Choose if you would like the repository to be public or private. If you can, always choose public, though you can also change that later.
+We will not be using any template, though they can be super useful for similar projects
+We want to add a README, so let’s turn that switch to on.
+We do not need a .gitignore at this point. This is important when you work locally and want to exclude some of your local files from being tracked
+And it is good practice to right away add a license, e.g. CC0, Creative Commons Zero.
+Then click create repository.
+We have now created an empty repository!
+Now upload the text file, that we created earlier
+Find the plus (“add file”) button next to the bigger green “code” button in your repository
+Click “upload files”
+After drag and dropping or finding your file from your computer, we need to commit it to the repository
+For that write a short commit message that tells why you added the file. You can, but don’t have to, add an extended description
+We choose “commit directly to the main branch”
+And “commit changes”.
+You now have created your own repository and added a file! You can explore the history to observe your progress.
+The link to your own public (!) repository is your post-day 4 assignment which needs to be submitted via moodle.
